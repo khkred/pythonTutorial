@@ -52,6 +52,13 @@ print(type(newLine))
 l = 9.6
 print(type(l))
 
+# Some more properties of Strings 
+
+myString = "jackal"*10
+
+
+print(myString)
+
 
 
 
