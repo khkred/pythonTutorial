@@ -4,7 +4,7 @@ n = int(input())
 
 # 1<=n<=100
 
-if 1<=n and n<=100:
+if 1<=n<=100:
 	
 	# We are checking if n is odd
 	if n%2==1:
